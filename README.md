@@ -1,2 +1,2 @@
 # module2-solution
-John Hopkins University HTML, CSS, JavaScript for web developer course
+Module 2 assignment: HTML, CSS, JavaScript for Web Developer by John Hopkins University course
